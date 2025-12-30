@@ -27,7 +27,7 @@ To Do List:
 Tentar:
 - Menu inicial
 - Musica de fundo
-- 
+- ...
 
 Pontos de Melhoria:
 - A definir
