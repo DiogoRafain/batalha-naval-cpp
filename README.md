@@ -21,7 +21,13 @@ To Do List:
 - Interface Gráfica
 - Implementar posicionamento das peças
 - Colocação das imagens das peças
+- Mensagem de Vitória e Derrota
 - ...
+
+Tentar:
+- Menu inicial
+- Musica de fundo
+- 
 
 Pontos de Melhoria:
 - A definir
