@@ -22,3 +22,6 @@ To Do List:
 - Implementar posicionamento das peças
 - Colocação das imagens das peças
 - ...
+
+Pontos de Melhoria:
+- A definir
