@@ -15,6 +15,7 @@ Instruções do jogo:
 - Quando o jogo começa, um dos jogadores lança um tiro e anuncia onde vai parar, indicando a letra e o número do quadrado onde pretende lançar o tiro. 
 
 To Do List:
+- Esboço do jogo (Figma)
 - Lógica do Tabuleiro
 - Implementação do Minimax
 - Interface Gráfica
