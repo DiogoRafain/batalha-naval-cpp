@@ -1,8 +1,10 @@
-# batalha-naval-cpp
+# ⛵ batalha-naval-cpp ⛵
 Repositorio do projeto batalha naval
 
 Sugestão professor: --minimax-- 
 - O Minimax serve para o computador escolher a melhor jogada possível, pensando alguns passos à frente, em vez de disparar ao acaso.
+
+Caracterísiticas:
 - Dimensão do Tabuleiro: 10x10
 - Número de peças: 5 a 8 peças
 
@@ -10,7 +12,7 @@ Tecnologias Utilizadas:
 - Linguagem: C++ (Padrão C++17 ou superior).
 - Interface Gráfica:
       1. SFML (Simple and Fast Multimedia Library).
-      1. Win32 API: The Win32 API, also known as the Windows API, is the foundational platform for creating native Windows applications in C/C++ that require direct interaction with the operating system and hardware. https://ciprianf.hashnode.dev/win32-api-programming-           creating-a-window
+      2. Win32 API: The Win32 API, also known as the Windows API, is the foundational platform for creating native Windows applications in C/C++ that require direct interaction with the operating system and hardware. https://ciprianf.hashnode.dev/win32-api-programming-           creating-a-window
 
 Instruções do jogo:
 - Colocação das peças no tabuleiro
