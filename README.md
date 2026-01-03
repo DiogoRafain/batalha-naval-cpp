@@ -26,9 +26,9 @@ To Do List:
 - [ ] Implementar posicionamento das peças
 - [ ] Colocação das imagens das peças
 - [ ] Mensagem de Vitória e Derrota
-- ...
+- [ ] Relatório Final
 
-Tentar:
+Tentar Implementar:
 - Menu inicial
 - Musica de fundo
 - ...
