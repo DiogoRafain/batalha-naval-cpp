@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(31,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,61): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,61): warning C4244:         with
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,61): warning C4244:         [
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,61): warning C4244:             T=float
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,61): warning C4244:         ]
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,37): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,37): warning C4244:         with
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,37): warning C4244:         [
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,37): warning C4244:             T=float
+C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\teste\main.cpp(123,37): warning C4244:         ]
+  teste.vcxproj -> C:\Users\ritaa\Desktop\ESTGL\EIT\Estrutura-Dados-Algoritmos\DiogoRafain\batalha-naval-cpp\teste\x64\Debug\teste.exe
