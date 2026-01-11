@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MestreDasAguas/MestreDasAguas.vcxproj" Id="33d86857-0379-427f-841e-490c9baaed56" />
+</Solution>
