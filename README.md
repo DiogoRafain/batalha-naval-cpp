@@ -21,12 +21,12 @@ Instruções do jogo:
 To Do List:
 - [x] Esboço do jogo (Figma) (Esboço pode diferir do desenvolvimento final)
 - [x] Lógica do Tabuleiro
-- [ ] Explicação do porque não usar Minimax
+- [x] Explicação do porque não usar Minimax
 - [x] Interface Gráfica
 - [x] Implementar posicionamento das peças
 - [x] Colocação das imagens das peças
 - [x] Mensagem de Vitória e Derrota
-- [ ] Relatório Final
+- [x] Relatório Final
 
 Tentar Implementar:
 - Menu inicial
